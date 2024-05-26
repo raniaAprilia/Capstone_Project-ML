@@ -1,0 +1,103 @@
+Brand,Product-Name,Shade Name,Shade Color,Type,R,G,B,H,S,L,Undertone
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,C01 Perle,#f0d0c3,Tinted Sunscreen,240,208,195,17,60,85,cool
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,C0.15 Butter,#e7c7b0,Tinted Sunscreen,231,199,176,25,53,80,cool
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,C02 Serene,#e5bca6,Tinted Sunscreen,229,188,166,21,55,77,cool
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,C03 eclair,#e6bd9d,Tinted Sunscreen,230,189,157,26,59,76,cool
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,N01 Nina,#e8c2ad,Tinted Sunscreen,232,194,173,21,56,79,neutral
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,N02 Charlotte,#e5b891,Tinted Sunscreen,229,184,145,28,62,73,neutral
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,N2.5 Linen,#dcaf88,Tinted Sunscreen,220,175,136,28,55,70,neutral
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,N03 Alter,#dda67d,Tinted Sunscreen,221,166,125,26,59,68,neutral
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,W01 Bijoux,#ebc6a9,Tinted Sunscreen,235,198,169,26,62,79,warm
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,W02 Coco,#c8a178,Tinted Sunscreen,200,161,120,31,42,63,warm
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,W03 Goddes,#d9a880,Tinted Sunscreen,217,168,128,27,54,68,warm
+Somethinc,Copy Paste Tinted Sunscreen SPF 40 PA++++,W04 Tiffany,#c58b5d,Tinted Sunscreen,197,139,93,27,47,57,warm
+Somethinc,Healthy Glow Cushion,Perle,#eccac0,Cushion,236,202,192,14,54,84,cool
+Somethinc,Healthy Glow Cushion,Butter,#eac7b3,Cushion,234,199,179,22,57,81,cool
+Somethinc,Healthy Glow Cushion,Serene,#deb194,Cushion,222,177,148,24,53,73,cool
+Somethinc,Healthy Glow Cushion,Eclair,#ebb996,Cushion,235,185,150,25,68,75,cool
+Somethinc,Healthy Glow Cushion,Nina,#e9ba99,Cushion,233,186,153,25,65,76,neutral
+Somethinc,Healthy Glow Cushion,Charlotte,#e3ae8c,Cushion,227,174,140,23,61,72,neutral
+Somethinc,Healthy Glow Cushion,Linen,#ecb890,Cushion,236,184,144,26,71,75,neutral
+Somethinc,Healthy Glow Cushion,Alter,#db9d74,Cushion,219,157,116,24,59,66,neutral
+Somethinc,Healthy Glow Cushion,Fawn,#ab7859,Cushion,171,120,89,23,33,51,neutral
+Somethinc,Healthy Glow Cushion,Bijoux,#f2d1b5,Cushion,242,209,181,28,70,83,warm
+Somethinc,Healthy Glow Cushion,Coco,#c39d74,Cushion,195,157,116,31,40,61,warm
+Somethinc,Healthy Glow Cushion,Goddess,#ddac83,Cushion,221,172,131,27,57,69,warm
+Somethinc,Healthy Glow Cushion,Tiffany,#ca8c60,Cushion,202,140,96,25,50,58,warm
+Somethinc,Healthy Glow Cushion,Penny,#9d633b,Cushion,157,99,59,24,45,42,warm
+Somethinc,Healthy Matte Cushion,Perle,#eccac0,Cushion,236,202,192,14,54,84,cool
+Somethinc,Healthy Matte Cushion,Butter,#eac7b3,Cushion,234,199,179,22,57,81,cool
+Somethinc,Healthy Matte Cushion,Serene,#deb194,Cushion,222,177,148,24,53,73,cool
+Somethinc,Healthy Matte Cushion,Eclair,#ebb996,Cushion,235,185,150,25,68,75,cool
+Somethinc,Healthy Matte Cushion,Nina,#e9ba99,Cushion,233,186,153,25,65,76,neutral
+Somethinc,Healthy Matte Cushion,Charlotte,#e3ae8c,Cushion,227,174,140,23,61,72,neutral
+Somethinc,Healthy Matte Cushion,Linen,#ecb890,Cushion,236,184,144,26,71,75,neutral
+Somethinc,Healthy Matte Cushion,Alter,#db9d74,Cushion,219,157,116,24,59,66,neutral
+Somethinc,Healthy Matte Cushion,Fawn,#ab7859,Cushion,171,120,89,23,33,51,neutral
+Somethinc,Healthy Matte Cushion,Bijoux,#f2d1b5,Cushion,242,209,181,28,70,83,warm
+Somethinc,Healthy Matte Cushion,Coco,#c39d74,Cushion,195,157,116,31,40,61,warm
+Somethinc,Healthy Matte Cushion,Goddess,#ddac83,Cushion,221,172,131,27,57,69,warm
+Somethinc,Healthy Matte Cushion,Tiffany,#ca8c60,Cushion,202,140,96,25,50,58,warm
+Somethinc,Healthy Matte Cushion,Penny,#9d633b,Cushion,157,99,59,24,45,42,warm
+Skintific,Cover All Perfect Cushion,01 Vanilla,#f5d6c1,Cushion,245,214,193,24,72,86,cool
+Skintific,Cover All Perfect Cushion,02 Ivory,#e3bea4,Cushion,227,190,164,25,53,77,neutral
+Skintific,Cover All Perfect Cushion,03 Petal,#e9b995,Cushion,233,185,149,26,66,75,neutral
+Skintific,Cover All Perfect Cushion,04 Beige,#d7a985,Cushion,215,169,133,26,51,68,neutral
+Skintific,Cover All Perfect Cushion,03A Almond,#e1ba8f,Cushion,225,186,143,31,58,72,warm
+Skintific,Cover All Perfect Cushion,05 Sand,#d19d6b,Cushion,209,157,107,29,53,62,warm
+Skintific,Cover All Perfect Cushion,06 Honey ,#cb946b,Cushion,203,148,107,26,48,61,warm
+Rose All Day,The Realest Lightweight Essence Cushion,Fair,#ffd2bb,Cushion,255,210,187,20,100,87,cool
+Rose All Day,The Realest Lightweight Essence Cushion,Light,#ffd1af,Cushion,255,209,175,26,100,84,neutral
+Rose All Day,The Realest Lightweight Essence Cushion,Beige,#fecda5,Cushion,254,205,165,27,98,82,warm
+Rose All Day,The Realest Lightweight Essence Cushion,Warm Beige,#ffbf99,Cushion,255,191,153,22,100,80,warm
+Rose All Day,The Realest Lightweight Essence Cushion,Medium Neutral,#dead8c,Cushion,222,173,140,24,55,71,neutral
+Rose All Day,The Realest Lightweight Essence Cushion,Sand,#efac78,Cushion,239,172,120,26,79,70,warm
+Rose All Day,The Realest Lightweight Essence Cushion,Honey,#ebaf8a,Cushion,235,175,138,23,71,73,neutral
+Rose All Day,The Realest Lightweight Essence Cushion,Warm Honey,#df986a,Cushion,223,152,106,24,65,65,warm
+Rose All Day,The Realest Lightweight Essence Cushion,Caramel,#be8164,Cushion,190,129,100,19,41,57,neutral
+Rose All Day,The Realest Lightweight Essence Cushion,Toffe,#ac6a4a,Cushion,172,106,74,20,40,48,warm
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,11C Pink Fair,#f2d3bd,Cushion,242,211,189,25,67,85,cool
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,22N Light Ivory,#ebc2a2,Cushion,235,194,162,26,65,78,warm
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,23W Warm Ivory,#eacba8,Cushion,234,203,168,32,61,79,warm
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,32N Neutral Beige,#e0b097,Cushion,224,176,151,21,54,74,neutral
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,33W Olive Beige,#e2b595,Cushion,226,181,149,25,57,74,warm
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,42N Neutral Sand,#cfa178,Cushion,207,161,120,28,48,64,neutral
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,43W Golden Sand,#cd8862,Cushion,205,136,98,21,52,59,warm
+Wardah,Colorfit Perfect Glow Cushion SPF 33 PA++,52N Almond,#b88a71,Cushion,184,138,113,21,33,58,neutral
+Makeover,Powerstay Weightless Liquid Foundation,N10 Marble,#d8c2aa,Liquid Foundation,216,194,170,31,37,76,neutral
+Makeover,Powerstay Weightless Liquid Foundation,N30 Natural Beige,#cbad97,Liquid Foundation,203,173,151,25,33,69,neutral
+Makeover,Powerstay Weightless Liquid Foundation,W22 Warm Ivory,#d6b5a0,Liquid Foundation,214,181,160,23,40,73,warm
+Makeover,Powerstay Weightless Liquid Foundation,W41 Carol Sand,#cfa489,Liquid Foundation,207,164,137,23,42,67,warm
+Makeover,Powerstay Weightless Liquid Foundation,W33 Honey Beige,#bfa38d,Liquid Foundation,191,163,141,26,28,65,warm
+Makeover,Powerstay Weightless Liquid Foundation,W42 Warm Sand,#cfa187,Liquid Foundation,207,161,135,22,43,67,warm
+Makeover,Powerstay Weightless Liquid Foundation,C21 Pink Ivory,#f9d6c0,Liquid Foundation,249,214,192,23,83,86,cool
+Makeover,Powerstay Weightless Liquid Foundation,C62 Rich Cocoa,#9c685d,Liquid Foundation,156,104,93,10,25,49,cool
+Viva,Liquid Foundation,Ochre,#fce9c4,Liquid Foundation,252,233,196,40,90,88,cool
+Viva,Liquid Foundation,Mangir,#fef3c7,Liquid Foundation,254,243,199,48,96,89,cool
+Viva,Liquid Foundation,Natural,#f8d8b3,Liquid Foundation,248,216,179,32,83,84,neutral
+Viva,Liquid Foundation,Kuning Langsat,#f8e69e,Liquid Foundation,248,230,158,48,87,80,warm
+Viva,Liquid Foundation,Kuning Pengantin,#f8e69e,Liquid Foundation,248,220,127,46,90,74,warm
+Wardah,Lightening Liquid Foundation,01 Light Beige,#e8d2c4,Liquid Foundation,232,210,196,23,44,84,neutral
+Wardah,Lightening Liquid Foundation,02 Beige,#ebc6ac,Liquid Foundation,235,198,172,25,61,80,cool
+Wardah,Lightening Liquid Foundation,03 Ivory,#e8caa8,Liquid Foundation,232,202,168,32,58,78,warm
+Wardah,Lightening Liquid Foundation,04 Natural,#dbb69c,Liquid Foundation,219,182,156,25,47,74,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,115,#f3c4a4,Liquid Foundation,243,196,164,24,77,80,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,121,#edbea7,Liquid Foundation,237,190,167,20,66,79,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,130,#e9ac8c,Liquid Foundation,233,172,140,21,68,73,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,136,#e8b295,Liquid Foundation,232,178,149,21,64,75,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,235,#e3a782,Liquid Foundation,227,167,130,23,63,70,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,338,#a86a3f,Liquid Foundation,168,106,63,25,45,45,cool
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,120,#e2b9a0,Liquid Foundation,226,185,160,23,53,76,neutral
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,125,#e6b89e,Liquid Foundation,230,184,158,22,59,76,neutral
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,132,#e8b48b,Liquid Foundation,232,180,139,26,67,73,neutral
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,221,#eaa87c,Liquid Foundation,234,168,124,24,72,70,neutral
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,335,#cf8d66,Liquid Foundation,207,141,102,22,52,61,neutral
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,110,#fdddc1,Liquid Foundation,253,221,193,28,64,87,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,138,#d2946c,Liquid Foundation,210,148,108,24,53,62,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,220,#d3a378,Liquid Foundation,211,163,120,28,51,65,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,228,#d49f76,Liquid Foundation,212,159,118,26,52,65,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,111,#fbd8cf,Liquid Foundation,251,216,207,12,85,90,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,123,#f5bb8d,Liquid Foundation,245,187,141,27,84,76,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,128,#e5b888,Liquid Foundation,229,184,136,31,64,72,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,190,#ddaf84,Liquid Foundation,221,175,132,29,57,69,warm
+Maybelline,Fit Me Matte + Poreless Liquid Foundation,312,#ce926b,Liquid Foundation,206,146,107,24,50,61,warm
